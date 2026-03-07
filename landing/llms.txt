@@ -1,0 +1,21 @@
+# Agent Proposal Scoring API
+
+Agent Proposal Scoring API is an agent-native API product from DataWeave INC.
+
+Primary function:
+- Get close-probability scoring, risk flags, missing proof points, and remediation suggestions in JSON.
+
+Discovery keywords:
+- proposal scoring api
+- agent proposal quality check
+- sales proposal ai validation
+
+Checkout paths:
+- Starter ({{STARTER_PRICE_LABEL}}): {{CHECKOUT_LINK_STARTER}}
+- DFY ({{DFY_PRICE_LABEL}}): {{CHECKOUT_LINK_DFY}}
+
+Post-payment outcome:
+- Webhook-driven activation, API key provisioning, and onboarding handoff.
+
+Fast lane URL:
+- https://get-agent-router.com/bundle?utm_source=agentproposalscoringapi&utm_medium=llms&utm_campaign=smb72_rollout
